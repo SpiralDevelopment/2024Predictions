@@ -8,13 +8,6 @@ I intend to use this repository to demostrate the results of my algorithm to inv
 ### How it works?
 In short, my market timing algorithm identifies future pivotal moments in the markets - those moments when the price action breaks the trend line, bottoms/tops, makes higher/lower high/low and so on - which can serve as entry/exit points.
 
-Here's the catch: not all moments predicted by the algorithm might turn out to be truly pivotal in the future, and that's alright.
-
-#### Pivotal moments must be supplemented by technical analysis
-Timing pivotal moments itself is not enough, when that pivotal moment comes it must be complemented with additional basic technical analysis before entering a position.
-
-For example, when the predicted moment comes and the market looks like testing a support/resistence, or breaking out the trend line, or making a top/bottom and so on, then that moment serves as an entry/exit point. Otherwise, the predicted pivotal moment should be ignored.
-
 ## Predictions
 
 ### Long- and Mid-Term Investment Opportunities
